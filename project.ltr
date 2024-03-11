@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>D:\prj\prpa\tt_ues\Main.ltw</Key>
+            <Value>434b9db8-b58f-4901-b78e-81378bba7856</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>D:\prj\prpa\tt_ues\Main.ltw</Key>
+            <Value>fdefb6d0-95f0-41fc-a332-61648d6e3ead</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>D:\prj\prpa\tt_ues\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
